@@ -1,6 +1,6 @@
 ## WoongBinKim Infomation
 
-## List 
+## List
 
 * [Who am I?](#Who am I?)
 * [Skills](#Skills)
@@ -12,7 +12,7 @@
 * ![Cover](https://scontent.xx.fbcdn.net/v/t1.0-9/13043210_10154236204817203_7178358629103689088_n.jpg?oh=f785bb57c9fd6e5a0953fa51848f4b25&oe=58C5098A)
 * name : Woong Bin Kim
 * age : 1990.04.21
-* address : SoekGulam-gil, Yangju-si, Gyeonggi-do, Korea
+* address : SoekGulam-gil, Yangju-si, Gyeonggi-do, Korea of Republic
 * 항상 꿈꾸는 서버 개발자
 * etc..
  * 2017.8월 한성대학교 컴퓨터공학부 졸업 예정
@@ -34,7 +34,7 @@
 
 
 
-## <a name="interest"></a>Interests 
+## <a name="interest"></a>Interests
 Server(Back-end) Development (Spring Framework ,Ruby on Rails)
 
 
